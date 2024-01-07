@@ -4,14 +4,7 @@
     padding: 0;
 
 }
-body{
-    background: url("../images/bg-desktop.svg") no-repeat;
-    background-color: hsl(257, 40%, 49%);
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 400;
-    color: #fff;
-    line-height: 1.5;
-}
+
 
 
 a{
@@ -139,9 +132,9 @@ button:hover{
 
 @media screen and (max-width: 850px)  {
  
-    body{
+    /* body{
         background-image: url("../images/bg-mobile.svg");
-    }
+    } */
 
     .logo{
         margin-left: 0;
